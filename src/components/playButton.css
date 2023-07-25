@@ -1,0 +1,7 @@
+button{
+    background: indianred;
+    width: 50px;
+}
+button:hover{
+    background: blue;
+}
